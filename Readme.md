@@ -6,7 +6,7 @@
 
 # Preview:
 
-...
+![Contador](https://user-images.githubusercontent.com/101753554/177024640-a0fa2f4b-c929-4f5f-bfdc-922ec89c549e.png)
 
 
 
